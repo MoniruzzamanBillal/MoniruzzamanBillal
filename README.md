@@ -1,10 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”./images/github-header-image.png" alt=”my banner img”>
-
-</p>
-
-<a href="https://www.linkedin.com/in/md-moniruzzaman-a0b466249/">
+<a href="https://i.ibb.co/2k0JYF2/github-header-image.png">
 <img src=”./images/github-header-image.png" />
 </a>
 
