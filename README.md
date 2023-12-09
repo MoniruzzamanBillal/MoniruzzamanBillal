@@ -49,6 +49,8 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 
 ## My top Projects
 
+---
+
 ### ShipEase
 
 ## Features of my project -
@@ -100,8 +102,9 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 
 ---
 
-## live link : https://shipease-1604d.web.app/
+[Client Site](https://github.com/MoniruzzamanBillal/ph-assignment-12-client) - [Server Site](https://github.com/MoniruzzamanBillal/ph-assignment-12-server) - [Live Demo](https://shipease-1604d.web.app/)
 
-## client site : https://github.com/MoniruzzamanBillal/ph-assignment-12-client
+---
 
-## server site : https://github.com/MoniruzzamanBillal/ph-assignment-12-server
+<br />
+<br />
