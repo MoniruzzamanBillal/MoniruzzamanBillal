@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" alt="Github Banner" style="max-width: 100%;">
+  <img src="https://i.ibb.co/2k0JYF2/github-header-image.png" alt="Github Banner" style="max-width: 100%;">
 </p>
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
