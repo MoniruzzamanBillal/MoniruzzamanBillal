@@ -117,7 +117,7 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 <br />
 <br />
 
----
+===========================================
 
 ### Resto
 
@@ -143,5 +143,34 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 - Database: MongoDB
 
 [Client Site](https://github.com/MoniruzzamanBillal/ph-assignment-11-client) - [Server Site](https://github.com/MoniruzzamanBillal/ph-assignment-11-server) - [Live Demo](https://resto-fe8f1.web.app/)
+
+---
+
+===========================================
+
+# gadget Hunter
+
+---
+
+#### Features of my project -
+
+- I get data from Mongodb database , then show them in card dynamically
+- I can make new user by registering with name , email ,password , imageURl
+- If password does not meet the condition then i show a modal .
+- I can login with google .
+- When I click on a card , it opens in a new route and show the details of the card
+- Without logged in , details don't show . It redirects to the login page
+
+---
+
+### Technologies Used
+
+=============
+
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+
+[Client Site](https://github.com/MoniruzzamanBillal/ph-assignment-10-client) - [Server Site](https://github.com/MoniruzzamanBillal/ph-assignment-10-server) - [Live Demo](https://brand-shop-76b08.web.app/)
 
 ---
