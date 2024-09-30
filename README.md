@@ -1,117 +1,124 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/md-moniruzzaman-a0b466249/">
-  <img src="https://i.ibb.co/2k0JYF2/github-header-image.png" alt="Github Banner" style="max-width: 100%;">
-</a>
-</p>
-<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
-## 👨🏽‍💻 About Me
 
+<h1 align="center">Hi 👋, I'm Md. Moniruzzaman</h1>
+<h3 align="center">A passionate Mern stack developer</h3>
+
+<img align="right" alt="coding" width="55%" src="https://github.com/MoniruzzamanBillal/MoniruzzamanBillal/blob/69536e2b511026e0d0f9a09cfc8dc685ecdbea1b/code.gif">
+<h3 align="left">HI, I Am A Professional Web Application Developer (Learner)</h3>
+
+
+
+
+<h4 align="left">I am a MERN stack WEB DEVELOPER with experience. I am learning and practicing as a Freelance full-stack web developer.</h4>
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/MoniruzzamanBillal](https://github.com/MoniruzzamanBillal)
+- 💬 Ask me about **HTML, CSS, BootStrap, Tailwind Css , JavaScript, React, Node , Redux .**
+- 📫 How to reach me **mdmoniruzzamanbillal@gmail.com**
+
+
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScript, Express.js, and MongoDB, I excel in translating concepts into user-friendly web designs. My expertise, cultivated through practical projects, emphasizes creative solutions and a commitment to writing clear, effective code.
 
-- ✉️  You can contact me at [mdmoniruzzamanbillal@gmail.com](mailto:mdmoniruzzamanbillal@gmail.com)
-- 🚀  I'm currently working on [Shipease](http://https://shipease-1604d.web.app/)
-- 🧠  I'm learning NextJs
 
-<br />
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/MdMoniruzz48991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehtisamul_haque" height="30" width="40" /></a>
+<a href="https://x.com/MdMoniruzz48991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehtisamul-haque" height="30" width="40" /></a>
+<a href="https://www.facebook.com/boss.mesut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eh.ehtisamhaq" height="30" width="40" /></a>
+
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+
 
 ## 📈 Current GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoniruzzamanBillal&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
+
+
 <a href="https://github.com/MoniruzzamanBillal" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br />
 
-### Reach me on
 
-<p align="left"> <a href="https://www.github.com/MoniruzzamanBillal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/md-moniruzzaman-a0b466249/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## :computer: Technologies that I know
+# My top Projects
 
-<br>
+
+
+## Car Rental Reservation System
+
 <p align="center">
-<img src="https://i.ibb.co/GTFpwXz/HTML.png"/>
-<img src="https://i.ibb.co/2NnM29B/css.png"/>
-<img src="https://i.ibb.co/jRKvDgF/Java-Script.png"/>
-<img src="https://i.ibb.co/cTL54KH/c.png"/>
-<img src="https://i.ibb.co/YBpvzDz/cpp.png"/>
+  <img src="https://i.postimg.cc/7ZDhVj2L/home.png" alt="Home page">
 </p>
-<p align="center">
-<img src="https://i.ibb.co/jZyzqqS/react.png"/>
-<img src="https://i.ibb.co/bRyt51c/tailwind.png"/>
-</p>
-<p align="center">
-<img src="https://i.ibb.co/qgzQqxT/node.png"/>
-<img src="https://i.ibb.co/jWGVpqk/express.png"/>
-<img src="https://i.ibb.co/4f8Z4FF/mongo.png"/>
-</p><br/>
 
-## My top Projects
+### Features of my project -
 
----
+### 1.Home Page:
+- Responsive design with a "Book Now" button.
+- Search bar to check car availability by location and date.
+- Featured cars carousel showing descriptions and pricing.
+- Customer testimonials and selling points (e.g., best prices, wide selection, 24/7 support).
 
-### ShipEase
+### 2.Car Listings:
+- Filter cars by type, price, and features.
+- Show car details with images, pricing, and a "View Details" button.
 
-## Features of my project -
 
-- In this project , user can register as delivary man and user
-- I have admin panel
-- users and delivary man have their own admin panel
 
-### User
+### 3.Car Details Page:
+- Detailed descriptions with features, pricing, and images.
+- Options for insurance, GPS, child seats, etc.
 
-=============
 
-- user can book a parcel
-  - user can select parcel type
-  - user can select which date he/she wants to get parcel
-  - based on parcel weight , charge is automatically added
 
-* user can update and cancel parcel if his product status is 'pending'
-* after parcel status is 'delivered', user can give review to the delivary man
+### 4.User Dashboard:
+- View personal info and booking history.
+- Modify or cancel bookings (before admin approval).
+- Pay after returning the car.
 
-### Delivary man
 
-=============
 
-- Delivary man can see his/her assigned parcel
-- Delivary man can see which date he/she can delivered the parcel , assigned by admin
-- He/she can see the review given by the user
 
-### Admin
 
-=============
+### 5.Admin Dashboard:
+- Overview of total bookings, available cars, revenue statistics.
+- View and manage car listings, bookings, and user data.
+- Add, update, or delete car listings.
+- Approve or cancel user bookings.
 
-- admin can see all the parcels
-- admin can manage parcels
-  - admin can assign delivary man
-  - admin can set which date to deliver the parcel
-- admin can see all users
-  - admin can make a user as delivary man or admin
-- admin can see all the delivary man
-  - admin can see the total parcel delivered by a delivary man
-  - admin can see the average rating of a delivary man
 
-### Technologies Used
 
-=============
 
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js, Express.js
+## Technologies Used : 
+- Frontend: React, TypeScript
+- Backend: Node.js, Express
 - Database: MongoDB
+- State Management: Redux Toolkit
+- Authentication: JWT (JSON Web Tokens)
+- Payment Integration: AmarPay
 
----
 
+
+## Credentials : 
 - admin email : abc@d.com
 - admin password : 123456
-- delivary mans email : delivaryman1@gmail.com
-- delivary mans password : ImbiLLaL@3018
+
 
 ---
 
-[Client Site](https://github.com/MoniruzzamanBillal/ph-assignment-12-client) - [Server Site](https://github.com/MoniruzzamanBillal/ph-assignment-12-server) - [Live Demo](https://shipease-1604d.web.app/)
+[Client Site](https://github.com/MoniruzzamanBillal/RentRide/tree/master) - [Server Site](https://github.com/MoniruzzamanBillal/car_rental_reservation_system) - [Live Link](https://rent-ride-ivory.vercel.app/)
 
 ---
 
@@ -120,58 +127,38 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 
 ===========================================
 
-### Resto
+## Happy Camper
 
----
+
+<p align="center">
+  <img src="https://i.postimg.cc/029FFzbv/Camper-Shop-1.png" alt="Home page">
+</p>
+
+Happy Campers is an e-commerce platform dedicated to camping enthusiasts. Our goal is to provide a wide range of camping products, from tents and sleeping bags to portable stoves and hiking gear. The platform offers a seamless shopping experience, with features like product search, user reviews, and secure checkout. Built using the MERN stack, Happy Campers aims to deliver a robust and user-friendly interface for outdoor enthusiasts.
 
 #### Features of my project -
 
-- I get data from Mongodb database , then show them in card dynamically
-- I can make new user by registering with name , email ,password , imageURl
-- If password does not meet the condition then i show a modal .
-- I can login with google .
-- When I click on a card , it opens in a new route and show the details of the card
-- Without logged in , details don't show . It redirects to the login page
+- Product Catalog: Comprehensive list of camping products with detailed descriptions.
+- Search & Filter: Easily find products based on categories, price, and ratings.
+- Shopping Cart & Checkout: Add items to your cart and proceed with a secure checkout.
+- Responsive Design: Accessible on both desktop and mobile devices.
+
 
 ---
 
 ### Technologies Used
 
-=============
 
-- Frontend: React.js, Tailwind CSS
+
+- Frontend : React
 - Backend: Node.js, Express.js
 - Database: MongoDB
-
-[Client Site](https://github.com/MoniruzzamanBillal/ph-assignment-11-client) - [Server Site](https://github.com/MoniruzzamanBillal/ph-assignment-11-server) - [Live Demo](https://resto-fe8f1.web.app/)
-
----
-
-===========================================
-
-# gadget Hunter
+- Styling: CSS, Tailwind css
+- State Management: Redux
 
 ---
 
-#### Features of my project -
-
-- I get data from Mongodb database , then show them in card dynamically
-- I can make new user by registering with name , email ,password , imageURl
-- If password does not meet the condition then i show a modal .
-- I can login with google .
-- When I click on a card , it opens in a new route and show the details of the card
-- Without logged in , details don't show . It redirects to the login page
+[Client Site](https://github.com/MoniruzzamanBillal/happy-camper-frontend) - [Server Site](https://github.com/MoniruzzamanBillal/camperShopServer) - [Live Link](https://happy-campers.vercel.app/)
 
 ---
 
-### Technologies Used
-
-=============
-
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-
-[Client Site](https://github.com/MoniruzzamanBillal/ph-assignment-10-client) - [Server Site](https://github.com/MoniruzzamanBillal/ph-assignment-10-server) - [Live Demo](https://brand-shop-76b08.web.app/)
-
----
