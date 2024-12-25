@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">Hi 👋, I'm Md. Moniruzzaman</h1>
 <h3 align="center">A passionate Mern stack developer</h3>
 
@@ -49,116 +50,6 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 
 <a href="https://github.com/MoniruzzamanBillal" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br />
 
 
-
-# My top Projects
-
-
-
-## Car Rental Reservation System
-
-<p align="center">
-  <img src="https://i.postimg.cc/7ZDhVj2L/home.png" alt="Home page">
-</p>
-
-### Features of my project -
-
-### 1.Home Page:
-- Responsive design with a "Book Now" button.
-- Search bar to check car availability by location and date.
-- Featured cars carousel showing descriptions and pricing.
-- Customer testimonials and selling points (e.g., best prices, wide selection, 24/7 support).
-
-### 2.Car Listings:
-- Filter cars by type, price, and features.
-- Show car details with images, pricing, and a "View Details" button.
-
-
-
-### 3.Car Details Page:
-- Detailed descriptions with features, pricing, and images.
-- Options for insurance, GPS, child seats, etc.
-
-
-
-### 4.User Dashboard:
-- View personal info and booking history.
-- Modify or cancel bookings (before admin approval).
-- Pay after returning the car.
-
-
-
-
-
-### 5.Admin Dashboard:
-- Overview of total bookings, available cars, revenue statistics.
-- View and manage car listings, bookings, and user data.
-- Add, update, or delete car listings.
-- Approve or cancel user bookings.
-
-
-
-
-## Technologies Used : 
-- Frontend: React, TypeScript
-- Backend: Node.js, Express
-- Database: MongoDB
-- State Management: Redux Toolkit
-- Authentication: JWT (JSON Web Tokens)
-- Payment Integration: AmarPay
-
-
-
-## Credentials : 
-- admin email : abc@d.com
-- admin password : 123456
-
-
----
-
-[Client Site](https://github.com/MoniruzzamanBillal/RentRide/tree/master) - [Server Site](https://github.com/MoniruzzamanBillal/car_rental_reservation_system) - [Live Link](https://rent-ride-ivory.vercel.app/)
-
----
-
-<br />
-<br />
-
-===========================================
-
-## Happy Camper
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/029FFzbv/Camper-Shop-1.png" alt="Home page">
-</p>
-
-Happy Campers is an e-commerce platform dedicated to camping enthusiasts. Our goal is to provide a wide range of camping products, from tents and sleeping bags to portable stoves and hiking gear. The platform offers a seamless shopping experience, with features like product search, user reviews, and secure checkout. Built using the MERN stack, Happy Campers aims to deliver a robust and user-friendly interface for outdoor enthusiasts.
-
-#### Features of my project -
-
-- Product Catalog: Comprehensive list of camping products with detailed descriptions.
-- Search & Filter: Easily find products based on categories, price, and ratings.
-- Shopping Cart & Checkout: Add items to your cart and proceed with a secure checkout.
-- Responsive Design: Accessible on both desktop and mobile devices.
-
-
----
-
-### Technologies Used
-
-
-
-- Frontend : React
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Styling: CSS, Tailwind css
-- State Management: Redux
-
----
-
-[Client Site](https://github.com/MoniruzzamanBillal/happy-camper-frontend) - [Server Site](https://github.com/MoniruzzamanBillal/camperShopServer) - [Live Link](https://happy-campers.vercel.app/)
-
----
 
