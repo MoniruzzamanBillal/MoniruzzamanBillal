@@ -29,6 +29,7 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 
 ## 🎓 Education
 
+
 ### 🏛️ Bachelor of Science in Computer Science & Engineering
 **International University of Business Agriculture and Technology (IUBAT)**  
 📍 Dhaka, Bangladesh  
@@ -36,6 +37,7 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 🎯 **CGPA:** 3.74/4.00  
 📚 **Status:** Currently Pursuing  
 📖 Pursuing comprehensive education in Computer Science and Engineering .
+
 ---
 
 ### 🏫 Higher Secondary Certificate (HSC)
