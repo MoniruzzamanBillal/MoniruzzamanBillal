@@ -10,11 +10,11 @@
 
 
 
-<h4 align="left">I am a MERN stack WEB DEVELOPER with experience. I am learning and practicing as a Freelance full-stack web developer.</h4>
+<h4 align="left">I am a MERN stack DEVELOPER with experience. I am learning and practicing as a full-stack web developer.</h4>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoniruzzamanBillal](https://github.com/MoniruzzamanBillal)
-- 💬 Ask me about **HTML, CSS, BootStrap, Tailwind Css , JavaScript, React, Node , Redux .**
+- 💬 Ask me about **HTML, CSS , Tailwind Css , JavaScript, React, Node , Redux , Typescript .**
 - 📫 How to reach me **mdmoniruzzamanbillal@gmail.com**
 
 
