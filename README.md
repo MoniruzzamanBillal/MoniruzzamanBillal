@@ -21,24 +21,44 @@
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScript, Express.js, and MongoDB, I excel in translating concepts into user-friendly web designs. My expertise, cultivated through practical projects, emphasizes creative solutions and a commitment to writing clear, effective code.
+As a dedicated frontend MERN stack developer, I excel in translating concepts into user-friendly web designs. My expertise, cultivated through practical projects, emphasizes creative solutions and a commitment to writing clean, effective code. I specialize in building modern, responsive web applications and I'm always eager to learn new technologies and take on challenging projects that push my skills to the next level.
+
+
 
 ---
-
-
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science & Engineering**  
-*IUBAT - International University of Business Agriculture and Technology*  
-📅 2021 - Present | 🎯 CGPA: 3.74/4.00
+### 🏛️ Bachelor of Science in Computer Science & Engineering
+**International University of Business Agriculture and Technology (IUBAT)**  
+📍 Dhaka, Bangladesh  
+📅 2022 - Present  
+🎯 **CGPA:** 3.74/4.00  
+📚 **Status:** Currently Pursuing  
+📖 Pursuing comprehensive education in Computer Science and Engineering .
+---
 
-**Higher Secondary Certificate (HSC)**  
-*Gazipur Metropolitan College*  
-📅 2019 - 2021 | 🎯 GPA: 5.00/5.00
+### 🏫 Higher Secondary Certificate (HSC)
+**Gazipur Metropolitan College**  
+📍 Gazipur, Bangladesh  
+📅 2018 - 2020  
+🎯 **GPA:** 5.00/5.00  
+📚 **Status:** Completed  
+🔬 **Group:** Science  
+🏆 Completed higher secondary education with excellent academic performance.
 
 ---
 
+### 🏫 Secondary School Certificate (SSC)
+**Rani Bilasmoni Govt. Boy's High School**  
+📍 Bangladesh  
+📅 2013 - 2018  
+🎯 **GPA:** 5.00/5.00  
+📚 **Status:** Completed  
+🔬 **Group:** Science  
+🏆 Completed secondary education with outstanding academic performance, establishing excellent academic foundation.
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
