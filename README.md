@@ -27,6 +27,20 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 
 
 
+## 🎓 Education
+
+**Bachelor of Science in Computer Science & Engineering**  
+*IUBAT - International University of Business Agriculture and Technology*  
+📅 2021 - Present | 🎯 CGPA: 3.74/4.00
+
+**Higher Secondary Certificate (HSC)**  
+*Gazipur Metropolitan College*  
+📅 2019 - 2021 | 🎯 GPA: 5.00/5.00
+
+---
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/MdMoniruzz48991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Moniruzaman" height="30" width="40" /></a>
