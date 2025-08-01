@@ -78,12 +78,20 @@ As a dedicated frontend developer skilled in React, HTML, CSS, Tailwind, JavaScr
 
 ## 📈 Current GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MoniruzzamanBillal&theme=gruvbox-duo)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=MoniruzzamanBillal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ---
 
-<a href="https://github.com/MoniruzzamanBillal" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://nirzak-streak-stats.vercel.app/?user=MoniruzzamanBillal&theme=dark&hide_border=false)
 
+---
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MoniruzzamanBillal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
