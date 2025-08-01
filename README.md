@@ -49,16 +49,6 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 🔬 **Group:** Science  
 🏆 Completed higher secondary education with excellent academic performance.
 
----
-
-### 🏫 Secondary School Certificate (SSC)
-**Rani Bilasmoni Govt. Boy's High School**  
-📍 Bangladesh  
-📅 2013 - 2018  
-🎯 **GPA:** 5.00/5.00  
-📚 **Status:** Completed  
-🔬 **Group:** Science  
-🏆 Completed secondary education with outstanding academic performance, establishing excellent academic foundation.
 
 ---
 
