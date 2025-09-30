@@ -34,7 +34,7 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 **International University of Business Agriculture and Technology (IUBAT)**  
 📍 Dhaka, Bangladesh  
 📅 2022 - Present  
-🎯 **CGPA:** 3.74/4.00  
+🎯 **CGPA:** 3.77/4.00  
 📚 **Status:** Currently Pursuing  
 📖 Pursuing comprehensive education in Computer Science and Engineering .
 
