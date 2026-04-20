@@ -111,12 +111,7 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 ---
 
 
-## 📊 Contribution Activity
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoniruzzamanBillal&theme=github-dark" />
-</p>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
