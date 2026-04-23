@@ -104,11 +104,8 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 ## 📈 Current GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MoniruzzamanBillal&theme=dark" />
-</p>
 
----
+
 
 <p align="center">
 
