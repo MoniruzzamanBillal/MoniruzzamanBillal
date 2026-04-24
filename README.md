@@ -108,7 +108,6 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 
 
 <p align="center">
-
   <img src="https://streak-stats.demolab.com?user=MoniruzzamanBillal&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
 </p>
 
@@ -116,10 +115,11 @@ As a dedicated frontend MERN stack developer, I excel in translating concepts in
 ---
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Top_Lang" />
+</p>
 
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBillal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
